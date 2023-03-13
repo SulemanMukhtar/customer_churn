@@ -2,9 +2,13 @@
 This is a Python-based project that analyzes customer churn data for a telecommunications company. The project is broken down into several sub-processes, each of which is designed to perform a specific task:
 
 data_generator.py: Generates seeded data for the analysis.
+
 data_cleaning.py: Cleans the data by removing duplicates and filling in missing values.
+
 data_analysis.py: Analyzes the cleaned data by creating visualizations and performing statistical tests.
+
 churn_prediction.py: Uses machine learning models to predict customer churn.
+
 Additionally, a run_all.py file has been provided to execute all the sub-processes in sequence.
 
 # Data
