@@ -1,4 +1,4 @@
-# (DATA SCIENCE) Analysis of Customer Churn in a Telecommunications Company
+# Analysis of Theoretical Customer Churn in a Telecommunications Company
 This is a Python-based project that analyzes customer churn data for a telecommunications company. The project is broken down into several sub-processes, each of which is designed to perform a specific task:
 
 data_generator.py: Generates seeded data for the analysis.
